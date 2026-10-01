@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mseetharamster
-- 👀 I’m interested in computer applications to process industry, renewable energy and ESG
+- 👀 I’m interested in computer applications in engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on 
 - 📫 Reach me on twitter @rammakkena_
